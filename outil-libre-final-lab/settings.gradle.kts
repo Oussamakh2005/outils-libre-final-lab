@@ -1,0 +1,1 @@
+rootProject.name = "outil-libre-final-lab"
